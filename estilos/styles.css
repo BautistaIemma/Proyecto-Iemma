@@ -80,9 +80,10 @@ hr {
     height: 50px;
     text-align: center;
     padding: 10px;
+    transition: ease-in 1s;
 
 }
-
+.titulo_info:hover {font-size: 40px;}
 .p__info {
     text-align: center;
     margin: auto;
